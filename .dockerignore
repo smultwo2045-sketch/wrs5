@@ -1,0 +1,10 @@
+**/__pycache__
+**/*.pyc
+.venv
+.git
+data/*.json
+data/*.bak
+data/uploads
+*.zip
+.env
+.DS_Store
